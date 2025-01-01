@@ -82,7 +82,6 @@ will bring up a live updating high level view of your python program:
 
 py-spy can also display the current call stack for each python thread with the ```dump``` command:
 
-```bash
 py-spy dump --pid 12345
 ```
 
